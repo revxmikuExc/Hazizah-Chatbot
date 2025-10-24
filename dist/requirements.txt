@@ -1,0 +1,2 @@
+scikit-learn spacy
+python -m spacy download id_core_news_sm
